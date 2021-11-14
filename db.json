@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,25 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Dexter",
+      "dogBreed": "English Pointer",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Marley",
+      "dogBreed": "Barramundi",
+      "id": 6
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +38,509 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Krystie Wimalasena",
+      "email": "tsukio.scoring@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Gerard Wimalasena",
+      "email": "gerard63@hotmail.com",
+      "id": 2
+    },
+    {
+      "name": "Gerard Wimalasena",
+      "email": "gerard63@hotmail.com",
+      "id": 3
+    },
+    {
+      "name": "Gerard Wimalasena",
+      "email": "gerard63@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "Gerard Wimalasena",
+      "email": "gerard63@hotmail.com",
+      "id": 5
+    },
+    {
+      "name": "Sienna Wimalasena",
+      "email": "sienna@hotmail.com",
+      "id": 6
+    },
+    {
+      "name": "Tao Wimalasena",
+      "email": "tao@hotmail.com",
+      "id": 7
+    },
+    {
+      "name": "Willow Baker",
+      "email": "willow@hellocurl.com.au",
+      "id": 8
+    },
+    {
+      "name": "Reece Baker",
+      "email": "reece@hellocurl.com.au",
+      "id": 9
+    },
+    {
+      "name": "Accacia Gale",
+      "email": "accacia@byron.com",
+      "id": 10
+    },
+    {
+      "name": "Jess Baker",
+      "email": "jess@byron.com",
+      "id": 11
+    },
+    {
+      "name": "Jess Baker",
+      "email": "jess@byron.com",
+      "id": 12
+    },
+    {
+      "name": "Dougie Gale",
+      "email": "dougy@byron.com",
+      "id": 13
+    },
+    {
+      "name": "Dougie Gale",
+      "email": "dougy@byron.com",
+      "id": 14
+    },
+    {
+      "name": "Marcus Baker",
+      "email": "marcus@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Trish Baker",
+      "email": "hello@hellocurl.com.au",
+      "id": 16
+    },
+    {
+      "name": "Trish Baker",
+      "email": "hello@hellocurl.com.au",
+      "id": 17
+    },
+    {
+      "name": "Trish Baker",
+      "email": "hello@hellocurl.com.au",
+      "id": 18
+    },
+    {
+      "name": "Trish Baker",
+      "email": "hello@hellocurl.com.au",
+      "id": 19
+    },
+    {
+      "name": "Trish Baker",
+      "email": "hello@hellocurl.com.au",
+      "id": 20
+    },
+    {
+      "name": "Trish Baker",
+      "email": "hello@hellocurl.com.au",
+      "id": 21
+    },
+    {
+      "name": "Trish Baker",
+      "email": "hello@hellocurl.com.au",
+      "id": 22
+    },
+    {
+      "name": "Glen Baker",
+      "email": "glen@outlook.com",
+      "id": 23
+    },
+    {
+      "name": "Glen Baker",
+      "email": "glen@outlook.com",
+      "id": 24
+    },
+    {
+      "name": "Glen Baker",
+      "email": "glen@outlook.com",
+      "id": 25
+    },
+    {
+      "name": "Glen Baker",
+      "email": "glen@outlook.com",
+      "id": 26
+    },
+    {
+      "name": "Neil Baker",
+      "email": "neil@outlook.com",
+      "id": 27
+    },
+    {
+      "name": "Geoff Baker",
+      "email": "geoff@outlook.com",
+      "id": 28
+    },
+    {
+      "name": "Ellen Baker",
+      "email": "elle@outlook.com",
+      "id": 29
+    },
+    {
+      "name": "Leon Baker",
+      "email": "leon@outlook.com",
+      "id": 30
+    },
+    {
+      "name": "Spider Baker",
+      "email": "spider@outlook.com",
+      "id": 31
+    },
+    {
+      "name": "Sani Baker",
+      "email": "aani@outlook.com",
+      "id": 32
+    },
+    {
+      "name": "Sani Baker",
+      "email": "aani@outlook.com",
+      "id": 33
+    },
+    {
+      "name": "Sani Baker",
+      "email": "aani@outlook.com",
+      "id": 34
+    },
+    {
+      "name": "Sani Baker",
+      "email": "aani@outlook.com",
+      "id": 35
+    },
+    {
+      "name": "Sandra Onley",
+      "email": "sass@outlook.com",
+      "id": 36
+    },
+    {
+      "name": "Sandra Onley",
+      "email": "sass@outlook.com",
+      "id": 37
+    },
+    {
+      "name": "Sandra Onley",
+      "email": "sass@outlook.com",
+      "id": 38
+    },
+    {
+      "name": "Sandra Onley",
+      "email": "sass@outlook.com",
+      "id": 39
+    },
+    {
+      "name": "Sandra Onley",
+      "email": "sass@outlook.com",
+      "id": 40
+    },
+    {
+      "name": "Sandra Onley",
+      "email": "sass@outlook.com",
+      "id": 41
+    },
+    {
+      "name": "Sandra Onley",
+      "email": "sass@outlook.com",
+      "id": 42
+    },
+    {
+      "name": "Sandra Onley",
+      "email": "sass@outlook.com",
+      "id": 43
+    },
+    {
+      "name": "Sandra Onley",
+      "email": "sass@outlook.com",
+      "id": 44
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 45
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 46
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 47
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 48
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 49
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 50
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 51
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 52
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 53
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 54
+    },
+    {
+      "id": 55
+    },
+    {
+      "id": 56
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 57
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 58
+    },
+    {
+      "name": "Sandra Volkman",
+      "email": "sass@outlook.com",
+      "id": 59
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 60
+    },
+    {
+      "name": "test",
+      "email": "test@test.com",
+      "id": 61
+    },
+    {
+      "name": "test",
+      "email": "test@test.com",
+      "id": 62
+    },
+    {
+      "name": "test",
+      "email": "test@test.com",
+      "id": 63
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 64
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 65
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 66
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 67
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 68
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 69
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 70
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 71
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 72
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 73
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 74
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 75
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 76
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 77
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 78
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 79
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 80
+    },
+    {
+      "name": "Sass Volkman",
+      "email": "sass@outlook.com",
+      "id": 81
+    },
+    {
+      "name": "Test",
+      "email": "test@outlook.com",
+      "id": 82
+    },
+    {
+      "name": "Test",
+      "email": "test@outlook.com",
+      "id": 83
+    },
+    {
+      "name": "Test",
+      "email": "test@outlook.com",
+      "id": 84
+    },
+    {
+      "name": "Test",
+      "email": "test@outlook.com",
+      "id": 85
+    },
+    {
+      "name": "Test",
+      "email": "test@outlook.com",
+      "id": 86
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 87
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 88
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 89
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 90
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 91
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 92
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 93
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 94
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 95
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 96
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 97
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 98
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 99
+    },
+    {
+      "name": "Lola",
+      "email": "test@outlook.com",
+      "id": 100
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
