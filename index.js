@@ -1,7 +1,10 @@
+const documentPage = document.querySelector('body');
+let arrayOfServerData = [];
+let html = '';
 
 //function to control the existing DB data to render on the page first before the POST request
 window.addEventListener('DOMContentLoaded', () => {
-  submitData('Lola', 'test@outlook.com');
+  submitData('Finito', 'test@outlook.com');
   })
 
 //function to post the new data to the db
@@ -30,8 +33,6 @@ function submitData (name, email) {
 })
 }
 
-const documentPage = document.querySelector('body');
-let arrayOfServerData = [];
 
 //Function to render the IDs of the existing data in the db
 function renderIds(userObject) {
@@ -39,7 +40,6 @@ function renderIds(userObject) {
   arrayOfServerData.push(userObject);
   console.log(arrayOfServerData);
   for(item of arrayOfServerData) {
-    let html = '';
   return html = html + createHtml(item)
   }
 }
@@ -49,14 +49,3 @@ function createHtml (item) {
   console.log(item);
     return `<li>${item.id}</li><br>`
 }
-
-//Function to render the new ID just posted to the DB
-/*function renderNewId (object) {
-    //let html = '';
-        html = html + createHtml(object);
-        console.log(html);
-        return html;
-    }*/
-
-
-
